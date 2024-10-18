@@ -1,6 +1,6 @@
 Building configuration...
 
-Current configuration : 3468 bytes
+Current configuration : 3472 bytes
 !
 ! Last configuration change at 06:38:05 UTC Fri Oct 18 2024
 !
@@ -11,7 +11,7 @@ platform qfp utilization monitor load 80
 no platform punt-keepalive disable-kernel-core
 platform console virtual
 !
-hostname csr
+hostname newname
 !
 boot-start-marker
 boot-end-marker
